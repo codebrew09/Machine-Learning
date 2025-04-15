@@ -21,8 +21,11 @@ This project demonstrates how feature selection, model training, and evaluation 
 The dataset used in this project includes customer feedback, with features such as:  
 
 - Delivered on Time  
-- Expected Order Delivery  
-- Good Price for Order  
+- Expected Order Came  
+- Good Price for Order
+- User Ordered what they Want
+- Satisfied with Courier
+- App is Convenient
 - **Happiness** (Target variable)
 
 The target variable, `Happiness`, is a binary classification label where:  
